@@ -13,9 +13,13 @@ Run using Visual Studio Code
 
 Another way
 1.Run the Python Script:
+
 2. Find the output.json.pyscript you want to run in the repository.
+
 3.Open the script file in Visual Studio Code.
+
 4. To run the script, right-click anywhere in the script editor and select "Run Python File in Terminal." Alternatively, you can use the keyboard shortcut Ctrl+Shift+P (Windows/Linux) or Cmd+Shift+P (Mac) to open the Command Palette and type "Python: Run Python File in Terminal" and select it.
+
 
 View the Output:
 The script will run in the terminal, and you can view the output there.
